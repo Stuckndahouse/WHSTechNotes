@@ -10,6 +10,6 @@ My thoughts on the new cell phone law is that it is pointless and won't have the
 
 One career i'm interested in is game design/developement. Computer science would be very useful in this field of work, and would allow me to be even better at it. Computer science is useful in this career because games are made almost exclusively with computers or similar technology. Coding computers would provide a pathway into coding games, and helping create them. Learning computer science before I even start would also provide a boost to my skills and necessary experience to be considered for a job in that field. Jobs in game developement earn on average 100,000$ in the U.S. Texas is a bit lower but not by much.
 
-# September 15, 2025
+# September 16, 2025
 
 My idea for an AI project would be to have AI pick up brainwaves from disabled patients, relay the information to a computer and the brainwaves be translated into speach in real time. Think of the setup being somewhat like the neuralink, but instead of it being connected to your phone or car, it would be connected to a small machine with a speaker in it that would allow paralyzed, crippled or mute people to speak again. This could also easily turn into a device that allows prosthetic limbs to move on their own. Limbs like this already exist and react to muscle spasms in the body or arm, adding the ability to translate brainwave into action would just further improve the device.depending on the user the speaker could be impanted or it can be an external device as well.
