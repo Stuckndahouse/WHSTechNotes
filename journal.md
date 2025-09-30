@@ -13,3 +13,7 @@ One career i'm interested in is game design/developement. Computer science would
 # September 16, 2025
 
 My idea for an AI project would be to have AI pick up brainwaves from disabled patients, relay the information to a computer and the brainwaves be translated into speach in real time. Think of the setup being somewhat like the neuralink, but instead of it being connected to your phone or car, it would be connected to a small machine with a speaker in it that would allow paralyzed, crippled or mute people to speak again. This could also easily turn into a device that allows prosthetic limbs to move on their own. Limbs like this already exist and react to muscle spasms in the body or arm, adding the ability to translate brainwave into action would just further improve the device.depending on the user the speaker could be impanted or it can be an external device as well.
+
+# September 30, 2025
+
+The joke, "67" came from an interview with LaMelo Ball. LaMelo used the numbers as a way to joke about someone's height. The joke gained popularity for being used in Skrilla's song, "Doot Doot". Skrilla's song appeared in edits featuring LaMelo Ball. The phrase became popular, and people began saying it as a joke when "67" appeared. The Joke is typically said in a light hearted manner.
