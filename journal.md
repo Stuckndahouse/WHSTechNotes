@@ -12,7 +12,11 @@ One career i'm interested in is game design/developement. Computer science would
 
 # September 16, 2025
 
-My idea for an AI project would be to have AI pick up brainwaves from disabled patients, relay the information to a computer and the brainwaves be translated into speach in real time. Think of the setup being somewhat like the neuralink, but instead of it being connected to your phone or car, it would be connected to a small machine with a speaker in it that would allow paralyzed, crippled or mute people to speak again. This could also easily turn into a device that allows prosthetic limbs to move on their own. Limbs like this already exist and react to muscle spasms in the body or arm, adding the ability to translate brainwave into action would just further improve the device.depending on the user the speaker could be impanted or it can be an external device as well.
+My idea for an AI project would be to have AI pick up brainwaves from disabled patients, relay the information to a computer and the brainwaves be translated into speach in real time. Think of the setup being somewhat like the neuralink, but instead of it being connected to your phone or car, it would be connected to a small machine with a speaker in it that would allow paralyzed, crippled or mute people to speak again. This could also easily turn into a device that allows prosthetic limbs to move on their own. Limbs like this already exist and react to muscle spasms in the body or arm, adding the ability to translate brainwave into action would just further improve the device.depending on the user the speaker could be implanted or it can be an external device as well.
+
+# September 22, 2025
+
+I think working in a virtual store for real money is a bad idea and will harm the future of jobs. Working in a virtual store sets a bad precedent for how the future of jobs look, not only because they can be replaced easily through the use of ai but also how unsustainable it is. Stocking fake shelves, serving fake food and other actions that do not impact the real world don't matter, especially not enough to get paid for it. Working online should be reserved for technologically dependent jobs, or jobs that require working with computers like logistics, it should not and cannot be the new standard for jobs.
 
 # September 30, 2025
 
