@@ -21,3 +21,7 @@ I think working in a virtual store for real money is a bad idea and will harm th
 # September 30, 2025
 
 The joke, "67" came from an interview with LaMelo Ball. LaMelo used the numbers as a way to joke about someone's height. The joke gained popularity for being used in Skrilla's song, "Doot Doot". Skrilla's song appeared in edits featuring LaMelo Ball. The phrase became popular, and people began saying it as a joke when "67" appeared. The Joke is typically said in a light hearted manner.
+
+# October 6, 2025
+
+If I were in charge of the school, my AI policy would be that using AI is banned in the use of schoolwork, whether that be teachers creating work, or it or students answering with AI. My Tech policy would be that phones are allowed to be used in the hallways and lunch, or when a teacher allows the student to use it. My policy with chromebooks would be to only ban innapropriate sites, or sites that can used to purchase things or watch shows. My reason to allow game sites is that students will just find more game sites some of which not being safe, and I would rather student use safe, trusted sites rather than sits that may contain malware. I also believe policies regarding a student's personal technology should be up to teachers or the school, not a state or federal government decision.
