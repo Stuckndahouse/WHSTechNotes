@@ -25,3 +25,9 @@ The joke, "67" came from an interview with LaMelo Ball. LaMelo used the numbers 
 # October 6, 2025
 
 If I were in charge of the school, my AI policy would be that using AI is banned in the use of schoolwork, whether that be teachers creating work, or it or students answering with AI. My Tech policy would be that phones are allowed to be used in the hallways and lunch, or when a teacher allows the student to use it. My policy with chromebooks would be to only ban innapropriate sites, or sites that can used to purchase things or watch shows. My reason to allow game sites is that students will just find more game sites some of which not being safe, and I would rather student use safe, trusted sites rather than sits that may contain malware. I also believe policies regarding a student's personal technology should be up to teachers or the school, not a state or federal government decision.
+
+# October 14, 2025
+
+The prompt was designed create a graphic used to explain the water cycle in a comprehensive way to highschool level students. Canva interpereted it fine, although almost all the words were fake or not words at all. I then asked Canva to animate the graphic and Canva didn't do it. So I asked Canva to create interactive elements and the AI still didn't work. I could not figure out a way to get the AI to create interactive elements or animate the graphic because when i asked the ai to do so, it didn't work. I could improve my prompt next time by improving my knowledge of Canva's ai and how to use it and its functions better.
+   LINK: https://www.canva.com/design/DAG1yJNRiEw/wZcesaa-JHXXg0Zeyyxq5Q/edit?ui=eyJEIjp7IkoiOnsiRCI6eyJBPyI6IkEifX19fQ
+
