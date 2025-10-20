@@ -31,3 +31,6 @@ If I were in charge of the school, my AI policy would be that using AI is banned
 The prompt was designed create a graphic used to explain the water cycle in a comprehensive way to highschool level students. Canva interpereted it fine, although almost all the words were fake or not words at all. I then asked Canva to animate the graphic and Canva didn't do it. So I asked Canva to create interactive elements and the AI still didn't work. I could not figure out a way to get the AI to create interactive elements or animate the graphic because when i asked the ai to do so, it didn't work. I could improve my prompt next time by improving my knowledge of Canva's ai and how to use it and its functions better.
    LINK: https://www.canva.com/design/DAG1yJNRiEw/wZcesaa-JHXXg0Zeyyxq5Q/edit?ui=eyJEIjp7IkoiOnsiRCI6eyJBPyI6IkEifX19fQ
 
+# October 20, 2025
+
+NAME         CLASS         SEAT
