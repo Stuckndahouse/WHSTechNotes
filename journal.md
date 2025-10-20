@@ -33,8 +33,9 @@ The prompt was designed create a graphic used to explain the water cycle in a co
 
 # October 20, 2025
 
-NAME         CLASS         SEAT
-Franklin     2nd           91A
-Hardeep      3rd           61F
-Marla        1st           35B
+| NAME    |     CLASS   |      SEAT |
+| ------- | ----------- | ---------- |
+|Franklin |    2nd      |     91A    |
+|Hardeep  |    3rd      |     61F    |
+|Marla    |    1st      |     35B    |
 
