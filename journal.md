@@ -39,3 +39,10 @@ The prompt was designed create a graphic used to explain the water cycle in a co
 |Hardeep  |    3rd      |     61F    |
 |Marla    |    1st      |     35B    |
 
+# October 27, 2025
+
+| NAME    | MAIN DISH   | DESSERT    |
+|---------|-------------|------------|
+| Fiona   | Gado Gado   | Creme Brulee|
+| Tobias  | Shrimp Ceviche| French Apple Cake|
+| Lian    | Beef Wellington| Raspberry Tiramisu|
