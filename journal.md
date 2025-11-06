@@ -46,3 +46,7 @@ The prompt was designed create a graphic used to explain the water cycle in a co
 | Fiona   | Gado Gado   | Creme Brulee|
 | Tobias  | Shrimp Ceviche| French Apple Cake|
 | Lian    | Beef Wellington| Raspberry Tiramisu|
+
+# November 3, 2025
+
+Technology can be used to access and spread awareness of alternative food programs. SNAP running out of funding is a big deal because it effects those who don't have enough money or resources to feed themselves, and if they cant feed themselves then there is a possibility that they may die. Technology could help those people by showing them alternative programs or institutes that provide food or medicine. The problem with tech-based solutions however, is that those who cannot afford food, likely cant afford the technology or internet for such technology, needed to see those programs. If I were creating a tool to help food insecurity, it would be called AIFPA, or the Artificial Intelligence Food Program Assesor. This program would be a free site that anyone can visit and it would use the persons location or city to find nearby food programs, drives or institutions like churches or food banks that people can visit.
