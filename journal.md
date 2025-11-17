@@ -55,3 +55,6 @@ Technology can be used to access and spread awareness of alternative food progra
 
 Technology has greatly changed the way the holidays are celebrated for many people, and in my opinion the change was for the better. Some people are unable to visit family or return home for the holidays for various reasons, whether that be health, finances or weather; but technology allows them to still see their family. Though there is a negative effect to this technology as well, people may not visit or go out simply because of laziness which leads to less of that holiday feeling and more of a zoom call. Although technology has its negative effects, I believe that the positives far outway the negatives. I also believe that the ddevelopers for holiday tech (toys and AIs) should be responsible for making sure that the familys they belong to recieve the most possible privacy they can with said product. This is because no company or algorithm should be preying on the people that use them, whether that be entertainment or neccessity.
 
+# November 17, 2025
+
+I am very excited for Thanksgiving break. My family and I will be running in the turkey trot on Thanksgiving day. I'm also excited that family might be able to come down and visit. I am also excited for the break from schoolwork.
