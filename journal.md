@@ -58,3 +58,7 @@ Technology has greatly changed the way the holidays are celebrated for many peop
 # November 17, 2025
 
 I am very excited for Thanksgiving break. My family and I will be running in the turkey trot on Thanksgiving day. I'm also excited that family might be able to come down and visit. I am also excited for the break from schoolwork.
+
+# December 1, 2025
+
+One job that uses drones is an agricultural drone pilot. These pilots use drones to survey crops and animals,and map/plan fields. The pilots will code parameters for the drone's mission like flight path, altitude, and speed to make the process autonomous. The average salary in Texas for these pilots is $105,000 a year. To work this job you would need a Part 107 license, a TACAL for spraying chemicals, and ppassing the state-level pesticide applicator exam. Personally, I wooulldn't want to work this job in the future just because it doesn't really seem all that fun; but it does look interesting.
