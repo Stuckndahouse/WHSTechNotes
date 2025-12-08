@@ -62,3 +62,8 @@ I am very excited for Thanksgiving break. My family and I will be running in the
 # December 1, 2025
 
 One job that uses drones is an agricultural drone pilot. These pilots use drones to survey crops and animals,and map/plan fields. The pilots will code parameters for the drone's mission like flight path, altitude, and speed to make the process autonomous. The average salary in Texas for these pilots is $105,000 a year. To work this job you would need a Part 107 license, a TACAL for spraying chemicals, and ppassing the state-level pesticide applicator exam. Personally, I wooulldn't want to work this job in the future just because it doesn't really seem all that fun; but it does look interesting.
+
+# December 8, 2025
+
+A self driving car may fail too recognize or respond to a stopped school bus because of either the AI not being trained properly to respond and react, or the AI may rely too heavily on GPS and official signage rather than the world around it. The car's cameras or sensors may be looking in the wrong spots or for the the wrong things enirely. This could be because the AI wasn't trained properly by its creators or just a bug in the system. If I were on the Waymo team, one fix I would make to fix this problem would likey be to train the AI better on how to recognize and respond to schoolbusses when driving and when stopped. I woul also make the AI rely less heavily on GPS and more on the signs and world around it, stopping when it detects ANY stop sign on the road, changes like that. 
+
