@@ -67,3 +67,6 @@ One job that uses drones is an agricultural drone pilot. These pilots use drones
 
 A self driving car may fail too recognize or respond to a stopped school bus because of either the AI not being trained properly to respond and react, or the AI may rely too heavily on GPS and official signage rather than the world around it. The car's cameras or sensors may be looking in the wrong spots or for the the wrong things enirely. This could be because the AI wasn't trained properly by its creators or just a bug in the system. If I were on the Waymo team, one fix I would make to fix this problem would likey be to train the AI better on how to recognize and respond to schoolbusses when driving and when stopped. I woul also make the AI rely less heavily on GPS and more on the signs and world around it, stopping when it detects ANY stop sign on the road, changes like that. 
 
+# December 15, 2025
+
+My plans for this Winter break are to go on a 5 day cruise to Mexico. After the cruise we are going to celebrate Christmas and maybe have family come visit. I'm super excited for the cruise coming up soon. 
