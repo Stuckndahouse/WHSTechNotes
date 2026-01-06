@@ -70,3 +70,7 @@ A self driving car may fail too recognize or respond to a stopped school bus bec
 # December 15, 2025
 
 My plans for this Winter break are to go on a 5 day cruise to Mexico. After the cruise we are going to celebrate Christmas and maybe have family come visit. I'm super excited for the cruise coming up soon. 
+
+# January 6, 2026
+
+Over the break I used technology by staying in touch with people over the phone. I also just got a brand new computer so I was able to use that to play games and speak to other people while playing. When I went on my cruise, I used my phone's camera to take pictures and videos of the ship and the water. Then when I went to a wrestling meet, I had to use my phone to keep up with the schedule of who was up next and when.
