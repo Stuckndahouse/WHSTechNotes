@@ -74,3 +74,8 @@ My plans for this Winter break are to go on a 5 day cruise to Mexico. After the 
 # January 6, 2026
 
 Over the break I used technology by staying in touch with people over the phone. I also just got a brand new computer so I was able to use that to play games and speak to other people while playing. When I went on my cruise, I used my phone's camera to take pictures and videos of the ship and the water. Then when I went to a wrestling meet, I had to use my phone to keep up with the schedule of who was up next and when.
+
+# January 12, 2026
+
+Autcraft was created to solve the problem of autistic children experiencing bulling and harassment online. Safe spaces are necessary on the internet because without them; bullying, harassment, threats, and even predators will flood many online spaces and discourage users from even going online to begin with. Developers have a responsibility to design and protect these safe spaces because if a developer allows negativity (bullying,harassment,etc.), then users of that developer's platform or game may be harmed or even harm themselves. If developers ignore making the proper tools for users to report and block other users for innapropriate or hateful behavior then the platform's experience drops as well, as the platform will likely be used by hateful users to spread toxicity or hateful speech. Although I know there are many safe online spaces, I don't really know them by name, and one's that used to be safe are not as safe now as they were then.
+
