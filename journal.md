@@ -82,3 +82,8 @@ Autcraft was created to solve the problem of autistic children experiencing bull
 # January 20, 2026
 
 Technology and its uses can create a more fair and just sociecty by allowing those without the physical capability to stand up for themselves. There's plenty wrong with the world and say that a person wants to go out and prostest or even fight for what they believe is right, but that person lacks the physical capability to do so; disablities like blindness, missing or crippled limbs, hearing or even vocal issue that literally prevent the person from speaking up for themselves. There are many issues that can cause someone to be unable to speak up for themselves, especially when it matters most. With technology, problems like this suddenly dont matter when it's time for the person to speak out, even people who are not disabled. Technology allows everyone, impaired or not, to have a voice in their community and their government. Everyone can have a voice for themselves, their own opinions and ideas, and this brings about new ways to solve and think about problems, and allows everyone to be seen and heard.
+
+# January 29, 2026
+
+This week I took the reading and writing map tests. I feel like both tests went fairly well and I did alright, the writing test was a bit more difficult than the reading test but I still feel as though I did alright. I think that test prepp probably would have helped me do better but I think that I did okay without it.
+
