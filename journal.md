@@ -87,3 +87,6 @@ Technology and its uses can create a more fair and just sociecty by allowing tho
 
 This week I took the reading and writing map tests. I feel like both tests went fairly well and I did alright, the writing test was a bit more difficult than the reading test but I still feel as though I did alright. I think that test prepp probably would have helped me do better but I think that I did okay without it.
 
+# February 2, 2026
+
+Hygiene and self care is important, especially in a public setting. Having good hygiene and self care is an important part of staying healthy and being in a shared space; it improves one's ability to focus and allows others around you to focus as well. One of the most important parts of being in a public space is respecting those around you, you can do this by keeping a low volume when talking, not engaging in distracting behavior and even something as simple as not eating or drinking near them. Another important part respecting a public space and the people in it is practicing self control, talking quieter, not being rude to others, controlling emotions and watching language are good habits when practicing self control. One habit that I can work on personally is communication.
