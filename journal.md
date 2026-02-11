@@ -90,3 +90,8 @@ This week I took the reading and writing map tests. I feel like both tests went 
 # February 2, 2026
 
 Hygiene and self care is important, especially in a public setting. Having good hygiene and self care is an important part of staying healthy and being in a shared space; it improves one's ability to focus and allows others around you to focus as well. One of the most important parts of being in a public space is respecting those around you, you can do this by keeping a low volume when talking, not engaging in distracting behavior and even something as simple as not eating or drinking near them. Another important part respecting a public space and the people in it is practicing self control, talking quieter, not being rude to others, controlling emotions and watching language are good habits when practicing self control. One habit that I can work on personally is communication.
+
+# February 10, 2026
+
+Personally, I don't really like football that much. I enjoy how it brings people together but as for the sport, I don't really care. I did watch the Super Bowl, and I saw how the Seahawks were slamming the Patriots for a majority of the game. Didn't really watch the halftime show because I can't speak spanish, mainly watched reels on my phone.
+
