@@ -95,3 +95,9 @@ Hygiene and self care is important, especially in a public setting. Having good 
 
 Personally, I don't really like football that much. I enjoy how it brings people together but as for the sport, I don't really care. I did watch the Super Bowl, and I saw how the Seahawks were slamming the Patriots for a majority of the game. Didn't really watch the halftime show because I can't speak spanish, mainly watched reels on my phone.
 
+# March 2, 2026
+
+| Title | Company | Education Required | Experience Required | Skills/Tools/languages | Certifications | What Job Does|
+|---------|-------------|------------|-----------------|--------------------------|-----------------|-----------------------------|
+| Data Analyst | H-E-B | Bachelor's in Business or Data Analytics| Previous experience in Analytics, 5+ years in retail | Python and SQL coding languages| Certification relating to coding/ working in business | The job is mining data from the stores to compile and use in experiments relating to the customers and their habits. This is so that they can see how the average customer acts/ buys, this can allow the company to adapt the data into an irl solution to encourage more sales/ customer retention. |
+| Software Engineer | USAA | Bachelor's in compsci,computer engineering/ software development, or applied science/math| 4 years of experience in a similar/related field | Govu/ Java languages, REST framework, guidewear cloud| (only if you do not meet experience or education needs): certification in Codeup,Galvanize, VetFIT or eFIT | You will design, test and code technical solutions for problems, and test/ experment with their implementation to the company. You will gather and curate data and suggest policy changes or features based on the data collected |
