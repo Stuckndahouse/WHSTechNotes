@@ -105,3 +105,7 @@ Personally, I don't really like football that much. I enjoy how it brings people
 # May 11, 2026
 
 One area that I feel that I grew the most in is confidence. There are many reasons for this growth but I feel like the biggest reason for this growth is the people around me. The people around me like friends, teachers and family have pushed me to be more confident in what I do and say. For example, near the begginning of the year I was mostly closed off, didn't know too many people and had my hoodie on; pretty much same as last year. Now i'm more open, hoodie on less, and generally talk to people more often.
+
+# May 18, 2026
+
+If I had to describe David to the cops, I would say that he usually is with his family at home or club. He has long black hair, usually a goatee and moustache. Usually wears a black hoodie/shirt and jeans with boots. He usually forgets to wear deodorant too.
